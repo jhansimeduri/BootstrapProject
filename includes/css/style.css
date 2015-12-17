@@ -264,7 +264,7 @@ footer #web_maintenance{
   font-weight: bold;
 }
 .img-responsive{
-  width: 100%;
+  width: 550px;
   height: 150px;
 }
 }
@@ -286,12 +286,14 @@ footer #web_maintenance{
     display: none;
   }
   .showcase_unit .img-responsive{
-    width: 360px;
+    width: 400px;
     height: 250px;
   }
   .showcase_unit .name, .showcase_unit .description{
     text-align: center;
   }
+
+
   #showcase .row{
     margin-bottom: 0px;
   }
@@ -303,12 +305,13 @@ footer #web_maintenance{
   }
 }
 
+
 @media (max-width: 354px){
   #port ul{
     margin-top: 32px;
   }
   .showcase_unit .img-responsive{
-    width: 250px;
+    width: 100%;
     height: 180px;
   }
   .showcase_unit .name{
@@ -321,7 +324,7 @@ footer #web_maintenance{
 
 @media(max-width: 320px){
    #content #content_image img, #web_insight #web_insight_image img{
-     width: 200px;
+     width: 100%;
    }
    #myCarousel .carousel-inner .item{
      height: 250px;
@@ -409,4 +412,7 @@ ssss   margin-top: -300px;
  .showcase_unit .description{
    font-size: 14px;
  }
+}
+body{
+  overflow-x:hidden;
 }
