@@ -102,27 +102,22 @@ footer{
 footer h4{
   font-weight: bold;
   margin-bottom:15px;
+  padding-left: 10px;
 }
 
 ul.unstyled{
-  padding-left: 0;
+  padding-left: 10px;;
 }
 
-ul.unstyled li{
+/*ul.unstyled li{
   list-style: none;
   margin-bottom: 8px;
-}
+}*/
 
 #footer{
   background-color: grey;
 
 }
-/*#footer .likes img{
-  width: 35px;
-  height: 35px;
-  margin-bottom: 5px;
-}*/
-
 /*---------------- General ------------------*/
 .siteName{
   color: #996533;
@@ -405,7 +400,7 @@ footer #web_maintenance{
 
 
  #myCarousel .carousel-inner h4{
-   margin-top: -300px;
+ssss   margin-top: -300px;
  }
  .img-responsive{
    width: 100%;
