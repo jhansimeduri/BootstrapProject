@@ -264,7 +264,7 @@ footer #web_maintenance{
   font-weight: bold;
 }
 .img-responsive{
-  width: 550px;
+  width: 550pxs;
   height: 150px;
 }
 }
@@ -413,6 +413,6 @@ ssss   margin-top: -300px;
    font-size: 14px;
  }
 }
-body{
+/*body{
   overflow-x:hidden;
-}
+}*/
