@@ -92,7 +92,10 @@
 }
 
 /*----------------- Footer -----------------*/
+footer ul{
+  list-style-type: none;
 
+}
 footer{
   margin-top: 20px;
   background-color: #9999ff;
